@@ -18,5 +18,5 @@ If that's NOT pretty cool, either because you hate it or can't get it to work, y
 ### Steps
 
 0. We have a commented-out line of code for Version 0. Uncomment it and run `node main.js`. You should get a little beep in your terminal. (If you don't, there's probably something in your terminal's settings.) It's not a bad idea for this beep to stay in, as feedback that the app is running, and as feedback when testing to make sure that your app is running. It could get annoying, for sure, but we recommend leaving it in for now!
- If you DO take it out, leave it commented out rather than deleting it. It's good to have audible feedback that your timer's working, so we'll re-use the line later.
+  If you DO take it out, leave it commented out rather than deleting it. It's good to have audible feedback that your timer's working, so we'll re-use the line later.
 1. yep
